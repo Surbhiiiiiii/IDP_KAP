@@ -16,3 +16,4 @@ tqdm
 transformers>=4.30.0       # optional, for BLIP image captioning
 torch                      # optional, required by transformers BLIP (install CPU or CUDA build)
 pdfplumber
+sentence-transformers
