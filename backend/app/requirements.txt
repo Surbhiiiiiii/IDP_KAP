@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-multipart
+motor
+pydantic[email]
+passlib[bcrypt]
+python-jose[cryptography]
+python-dotenv
+openai
+pypdf
+python-docx
+pillow
+pytesseract
+faiss-cpu
+tqdm
+transformers>=4.30.0       # optional, for BLIP image captioning
+torch                      # optional, required by transformers BLIP (install CPU or CUDA build)
